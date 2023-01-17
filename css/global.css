@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    background-color: #fafafa;
+}
+
+a {
+    text-decoration: none;
+    color: #33323D;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    gap: 42px;
+}
+
+.h1,
+.h2,
+.h3 {
+    font-family: "Ibarra Real Nova", sans-serif;
+    color: #33323D;
+}
+
+.body1,
+.body2 {
+    font-family: "Public Sans", sans-serif;
+    color: #33323D;
+}
+
+.color-white {
+    color: #fafafa;
+}
+
+.ul-current-green {
+    color: #5FB4A2;
+}
